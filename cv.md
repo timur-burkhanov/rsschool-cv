@@ -25,7 +25,8 @@ As I am just starting out in the field of web development, I consider myself as 
 * JavaScript Development Training - *EPAM Rolling Scopes*
 
 ### English:
-#### C2 Proficient - [EF SET Certificate](https://www.efset.org/cert/pHDBni) | IELTS 8.0 Overall (Listening: 9.0 | Reading: 9.0)
+#### C2 Proficient - [EF SET Certificate](https://www.efset.org/cert/pHDBni)  
+#### IELTS 8.0 Overall (Listening: 9.0 | Reading: 9.0)
 **Spoiler**: I have worked as an **ESL Tutor for over 5 years**, and **taught over 400+ students** so far. 
 
 In addition, **I lived in the United States** where I could practice my English even more.
