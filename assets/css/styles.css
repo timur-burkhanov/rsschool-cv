@@ -1,0 +1,130 @@
+body {
+  color: #40514E;
+  font-family: 'Barlow', sans-serif;
+  text-emphasis: center;
+  font-size: 20px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.container-inner {
+  margin: 0 auto;
+  width: 50%;
+}
+
+.img {
+  display: block;
+  margin: 20px auto;
+  width: 250px;
+}
+
+.main-heading {
+  text-align: center;
+}
+
+.contact-details {
+  margin: 80px 0;
+}
+
+.contact-details a {
+  padding: 0 25px;
+}
+
+.intro {
+  text-align: center;
+  font-size: 22px;
+}
+
+@media only screen and (max-width: 600px) {
+  .container-inner {
+    width: 80%;
+    font-size: 18px;
+  }
+  .contact-details {
+    margin: 50px 0 70px 0;
+  }
+  .contact-details a {
+    display: block;
+    margin: 10px 0;
+  }
+  .intro {
+    text-align: center;
+    font-size: 20px;
+  }
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #afcccc;
+  border-width: 5px;
+  width: 15%;
+  margin: 35px auto;
+}
+
+li {
+  padding: 10px;
+}
+
+a:hover {
+  color: red;
+}
+
+.skill-row {
+  margin: 50px auto;
+  text-align: left;
+}
+
+.skill-image {
+  width: 20%;
+}
+
+.code {
+  float: left;
+  margin-right: 30px;
+}
+
+.flag {
+  float: right;
+  margin-left: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+  .skill-image {
+    width: 40%;
+    font-size: 18px;
+  }
+}
+
+.education ul {
+  list-style-position: inside;
+}
+
+.footer {
+  width: 100%;
+  background-color: #417979;
+  padding: 35px 0 15px;
+  margin-top: 80px;
+  text-align: center;
+}
+
+.footer-link {
+  color: #30e6ec;
+  text-decoration: none;
+  margin: 10px 20px;
+  font-family: 'Barlow', sans-serif;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+.copyright {
+  font-size: 1rem;
+  color: #EAF6F6;
+  padding: 10px 0 0;
+}
