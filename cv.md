@@ -2,11 +2,11 @@
 ### +998 (99) 517-91-92 | [Telegram](https://t.me/rolling_scopes) | timurburkhanov97@gmail.com
 ### 23 year-old senior at WIUT, avid traveller, and just a positive guy.
 ### Skills:
-1. HTML5
-1. CSS3
+1. HTML5/CSS3
 1. Vanilla JavaScript
 1. Bootstrap
 1. MS Office
+1. Languages
 
 ### Portfolio:
 [My Portfolio Website](https://timur.netlify.app/)
